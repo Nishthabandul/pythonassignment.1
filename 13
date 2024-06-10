@@ -1,0 +1,3 @@
+n=int(input("enter number: "))
+age=2024-n
+print(age)
