@@ -1,0 +1,3 @@
+string="hello my name is nishtha"
+string2=string.upper()
+print(string2)
