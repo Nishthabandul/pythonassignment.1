@@ -1,0 +1,8 @@
+string=input("enter string: ")
+new_string=input("enter another string: ")
+string_sorted=sorted(string)
+new_string_sorted=sorted(new_string)
+if string_sorted==new_string_sorted:
+    print("they are anagrams")
+else:
+    print("they are not anagrams")    
