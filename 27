@@ -1,0 +1,5 @@
+
+
+s = "hello and welcome to python"
+x = list(s) 
+print(x)
