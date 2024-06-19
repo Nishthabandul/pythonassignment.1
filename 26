@@ -1,0 +1,4 @@
+var = "hello good morining"
+
+print(var.startswith("hello"))
+print(var.startswith("bye"))
